@@ -1,6 +1,6 @@
 # Deploying Django with Gunicorn, Nginx and MySQl on Ubuntu 18.04
 
-## Setting up software
+## Install Prerequisites
 
 1. Update ubuntu software repository
 2. Install 
