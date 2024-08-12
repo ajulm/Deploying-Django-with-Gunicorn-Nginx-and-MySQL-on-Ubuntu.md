@@ -277,7 +277,3 @@ And thats it! If everything worked fine, you should be able to access your djang
 ```
 
 --------------------
-
-## References
-1. [How to deploy django application to a production server. (part I)](https://medium.com/@_christopher/deploying-my-django-app-to-a-real-server-part-i-de78962e95ac)
-2. [How to deploy django application to a production server. (part II)](https://medium.com/@_christopher/deploying-my-django-app-to-a-real-server-part-ii-f0c277c338f4)
